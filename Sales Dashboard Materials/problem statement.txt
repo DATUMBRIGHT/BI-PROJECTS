@@ -1,0 +1,29 @@
+### Client Problem Statement: Sales and Customer Visualization Project
+
+#### Background
+In today’s competitive marketplace, our client, a mid-sized retail company, faces challenges in understanding customer behavior and sales performance. The client has accumulated extensive data from customer interactions and sales transactions, but lacks the analytical tools to effectively leverage this information for strategic decision-making.
+
+#### Problem
+The client is unable to derive actionable insights from their sales and customer data, which limits their ability to optimize marketing efforts, enhance customer retention, and drive sales growth. Specifically, they need to address the following key issues:
+
+1. **Lack of Visibility into Customer Spending**: The client needs to understand average customer spend to tailor marketing strategies and promotions effectively.
+  
+2. **Identifying Top Customers**: The client requires a clear understanding of who their top customers are to prioritize engagement and retention efforts.
+
+3. **Sales Performance Monitoring**: There is a need for an effective way to monitor weekly sales trends to identify peak sales periods and make informed inventory decisions.
+
+4. **Customer Retention Challenges**: The client has concerns regarding customer retention rates and needs insights to improve loyalty and repeat business.
+
+5. **Managing Forfeited Sales**: Understanding the total sales forfeited due to returns and cancellations is crucial for assessing product performance and customer satisfaction.
+
+6. **Product Distribution Analysis**: The client lacks insights into product performance across different categories, hindering effective product management and marketing strategies.
+
+#### Objectives
+To address these challenges, the client seeks a comprehensive business intelligence solution that includes:
+
+- Development of a **Customer Insights Dashboard** to visualize average customer spend, identify top customers, and track customer retention.
+- Creation of a **Sales Performance Dashboard** to monitor total sales, weekly sales trends, and sales forfeited due to returns.
+- Implementation of key metrics and KPIs that provide actionable insights to improve marketing strategies, enhance customer loyalty, and optimize sales performance.
+
+### Conclusion
+By leveraging advanced data visualization techniques and analytics, the client aims to gain a deeper understanding of their customer base and sales dynamics, ultimately driving better business outcomes and competitive advantage in the retail sector. The successful implementation of this project will empower the client to make informed decisions, enhance customer engagement, and increase overall sales performance.
